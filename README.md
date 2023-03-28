@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gabriela Castro, a full-stack junior developer 👨‍💻</div>  
+### <div align="center">I'm Gabriela Castro, a junior developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on Corporación Universitaria de la Costa   
