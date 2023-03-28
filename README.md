@@ -55,7 +55,7 @@
 
 
 ## Github Stats  
-<div align="center" color="black"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&hide_border=true&layout=compact&theme=transparent" align="center" /></div>  
+<div align="center" color="black"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&hide_border=true&layout=compact&bg_color=00000000" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrielacastroh&bg_color=00000000&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
