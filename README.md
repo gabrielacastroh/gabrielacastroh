@@ -2,11 +2,11 @@
 
 # Hi 👋 I'm Gabriela Castro
 
-### AI-Powered Full Stack Developer
+### Full Stack Developer
 
-Building scalable platforms, intelligent automation tools, and modern web experiences.
+Building scalable web applications, modern user experiences, and cloud-based platforms.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Builder;React+%2B+Python+Engineer;Cloud+%26+Automation+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+Python+Developer;Cloud+%26+Backend+Enthusiast;Building+Modern+Web+Applications" />
 
 </div>
 
@@ -14,16 +14,16 @@ Building scalable platforms, intelligent automation tools, and modern web experi
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with 3+ years building scalable applications
-- 🤖 Currently focused on AI-powered platforms and automation systems
-- ☁️ Working with AWS, Docker and cloud-native deployments
-- 🧠 Exploring LLMs, AI Agents and intelligent workflows
-- 📱 Mobile development experience with Flutter
+- 💻 Full Stack Developer with 3+ years of experience
+- ⚙️ Building scalable web and mobile applications
+- ☁️ Working with AWS, Docker and cloud deployments
+- 📱 Experience developing mobile apps with Flutter
+- 🧩 Focused on modern frontend architecture and backend systems
 - 🌍 Based in Barranquilla, Colombia
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Building scalable platforms, intelligent automation tools, and modern web experi
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 ### Database & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,aws,docker,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -48,40 +48,42 @@ Building scalable platforms, intelligent automation tools, and modern web experi
 
 # 🔥 Featured Projects
 
-## 🧠 QA Intelligence Platform
-AI-powered QA auditing platform that analyzes public URLs using Playwright, axe-core and LLMs to generate automated technical reports.
+## QA Intelligence Platform
+Automated QA platform that audits public URLs using browser automation, accessibility analysis and technical reporting.
 
-**Tech:** FastAPI • React • Docker • Groq API • Playwright • TypeScript
-
----
-
-## ⚡ SYNC — Real-Time Collaboration Board
-Modern collaborative platform inspired by Jira and Linear with drag-and-drop architecture and scalable state management.
-
-**Tech:** React • Zustand • Immer • Framer Motion • TailwindCSS
+**Tech:** FastAPI • React • Playwright • Docker • TypeScript
 
 ---
 
-## 📊 ORBIT — Product Operations Intelligence
-Product Operations platform focused on analytics, feature adoption and operational intelligence dashboards.
+## SYNC — Real-Time Collaboration Board
+Collaborative platform inspired by Jira and Linear with advanced drag-and-drop interactions and scalable state management.
 
-**Tech:** React • TypeScript • TanStack Query • Zustand • Recharts
+**Tech:** React • Zustand • Framer Motion • TailwindCSS
 
 ---
 
-## 📈 GitHub Stats
+## ORBIT — Product Operations Intelligence
+Operations and analytics dashboard platform focused on product metrics, workflows and role-based access systems.
+
+**Tech:** React • TypeScript • TanStack Query • Zustand
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielacastroh&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielacastroh&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -101,18 +103,8 @@ Product Operations platform focused on analytics, feature adoption and operation
 
 ---
 
-## 👀 Profile Views
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gabrielacastroh&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Building modern software powered by AI
 
 </div>
