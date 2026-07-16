@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Gabriela%20Castro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img alt="Gabriela Castro — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Gabriela%20Castro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 Building scalable web apps, clean UIs and cloud-based platforms — from Barranquilla, Colombia 🇨🇴
 
@@ -23,25 +23,46 @@ Building scalable web apps, clean UIs and cloud-based platforms — from Barranq
 
 ## Stack
 
-| Frontend | Backend | Cloud & Tools |
-|---|---|---|
-| React, Next.js, TypeScript | Python, Django, FastAPI | AWS, Docker |
-| Redux, TailwindCSS, MUI | Flask, Node.js | PostgreSQL, Git, Figma, Linux |
+<div align="center">
+
+**Frontend**
+
+<img alt="Frontend stack" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui" />
+
+**Backend**
+
+<img alt="Backend stack" src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs" />
+
+**Mobile · Cloud · Tools**
+
+<img alt="Mobile, cloud and tools" src="https://skillicons.dev/icons?i=flutter,dart,aws,docker,postgres,mysql,linux,git,github,figma" />
+
+</div>
 
 <br/>
 
 ## Featured Projects
 
 **QA Intelligence Platform**
+
 Automated QA platform auditing public URLs — browser automation, accessibility analysis, technical reporting.
+
 `FastAPI` `React` `Playwright` `Docker`
 
+---
+
 **SYNC**
+
 Real-time collaboration board inspired by Jira/Linear — drag-and-drop interactions, scalable state management.
+
 `React` `Zustand` `Framer Motion`
 
+---
+
 **ORBIT**
+
 Product operations dashboard — metrics, workflows, role-based access.
+
 `React` `TypeScript` `TanStack Query`
 
 <br/>
@@ -50,8 +71,7 @@ Product operations dashboard — metrics, workflows, role-based access.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielacastroh&show_icons=true&theme=dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&layout=compact&theme=dark&hide_border=true" height="165"/>
+<img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=gabrielacastroh&theme=tokyonight&hide_border=true&background=00000000&ring=2575fc&fire=6a11cb&currStreakLabel=2575fc" />
 
 </div>
 
