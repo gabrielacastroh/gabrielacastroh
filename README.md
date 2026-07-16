@@ -2,8 +2,6 @@
 
 <img alt="Gabriela Castro — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Gabriela%20Castro&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
-Building scalable web apps, clean UIs and cloud-based platforms — from Barranquilla, Colombia 🇨🇴
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-castro-hernandez-gch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielacastro940@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielacastroh)
@@ -12,16 +10,25 @@ Building scalable web apps, clean UIs and cloud-based platforms — from Barranq
 
 <br/>
 
-## About
+## 💫 About
 
-- **3+ years** building full stack products end to end
-- Frontend architecture, backend APIs, and cloud deployments
-- Occasionally ship mobile with Flutter
-- Currently focused on QA automation tooling and real-time collaboration UIs
+<div align="center">
+
+Full stack developer crafting scalable web apps and clean, thoughtful UIs.<br/>
+Comfortable across React, Python/Node and the cloud — focused on what users actually feel.
 
 <br/>
 
-## Stack
+![Location](https://img.shields.io/badge/📍_Barranquilla,_Colombia-2575fc?style=flat-square)
+![Experience](https://img.shields.io/badge/💼_3%2B_years-6a11cb?style=flat-square)
+![Focus](https://img.shields.io/badge/🎯_QA_Automation_%26_Real--time_UIs-2575fc?style=flat-square)
+![Mobile](https://img.shields.io/badge/📱_Flutter-6a11cb?style=flat-square)
+
+</div>
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -41,33 +48,37 @@ Building scalable web apps, clean UIs and cloud-based platforms — from Barranq
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-**QA Intelligence Platform**
+#### 🧪 QA Intelligence Platform
+Audits public URLs with browser automation, accessibility checks and technical reporting.
 
-Automated QA platform auditing public URLs — browser automation, accessibility analysis, technical reporting.
-
-`FastAPI` `React` `Playwright` `Docker`
-
----
-
-**SYNC**
-
-Real-time collaboration board inspired by Jira/Linear — drag-and-drop interactions, scalable state management.
-
-`React` `Zustand` `Framer Motion`
-
----
-
-**ORBIT**
-
-Product operations dashboard — metrics, workflows, role-based access.
-
-`React` `TypeScript` `TanStack Query`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
-## GitHub Activity
+#### 🔄 SYNC — Real-Time Collaboration
+Kanban board inspired by Jira & Linear — smooth drag-and-drop and scalable state management.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+<br/>
+
+#### 🛰️ ORBIT — Product Ops Intelligence
+Operations dashboard for product metrics, workflows and role-based access.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
