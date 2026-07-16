@@ -12,19 +12,11 @@
 
 ## 💫 About
 
-<div align="center">
-
-Full stack developer crafting scalable web apps and clean, thoughtful UIs.<br/>
-Comfortable across React, Python/Node and the cloud — focused on what users actually feel.
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Barranquilla,_Colombia-2575fc?style=flat-square)
-![Experience](https://img.shields.io/badge/💼_3%2B_years-6a11cb?style=flat-square)
-![Focus](https://img.shields.io/badge/🎯_QA_Automation_%26_Real--time_UIs-2575fc?style=flat-square)
-![Mobile](https://img.shields.io/badge/📱_Flutter-6a11cb?style=flat-square)
-
-</div>
+💻 &nbsp;**Full stack** &nbsp;—&nbsp; React · Python/Node · Cloud <br/>
+🎯 &nbsp;**Focus** &nbsp;—&nbsp; QA automation & real-time collaboration UIs <br/>
+📱 &nbsp;**Mobile** &nbsp;—&nbsp; Flutter <br/>
+💼 &nbsp;**Experience** &nbsp;—&nbsp; 3+ years shipping products end to end <br/>
+📍 &nbsp;**Based in** &nbsp;—&nbsp; Barranquilla, Colombia 🇨🇴
 
 <br/>
 
@@ -50,7 +42,11 @@ Comfortable across React, Python/Node and the cloud — focused on what users ac
 
 ## 🚀 Featured Projects
 
-#### 🧪 QA Intelligence Platform
+<details>
+<summary><b>🧪 QA Intelligence Platform</b> &nbsp;—&nbsp; automated QA auditing</summary>
+
+<br/>
+
 Audits public URLs with browser automation, accessibility checks and technical reporting.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -58,23 +54,33 @@ Audits public URLs with browser automation, accessibility checks and technical r
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+</details>
+
+<details>
+<summary><b>🔄 SYNC — Real-Time Collaboration</b> &nbsp;—&nbsp; Kanban board</summary>
+
 <br/>
 
-#### 🔄 SYNC — Real-Time Collaboration
-Kanban board inspired by Jira & Linear — smooth drag-and-drop and scalable state management.
+Inspired by Jira & Linear — smooth drag-and-drop and scalable state management.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
+</details>
+
+<details>
+<summary><b>🛰️ ORBIT — Product Ops Intelligence</b> &nbsp;—&nbsp; ops dashboard</summary>
+
 <br/>
 
-#### 🛰️ ORBIT — Product Ops Intelligence
 Operations dashboard for product metrics, workflows and role-based access.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+</details>
 
 <br/>
 
