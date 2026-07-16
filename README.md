@@ -1,110 +1,113 @@
 <div align="center">
 
-# Hi 👋 I'm Gabriela Castro
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Gabriela%20Castro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=200&section=header&text=Gabriela%20Castro&fontSize=42&fontColor=1a1a2e&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+</picture>
 
-### Full Stack Developer
+Building scalable web apps, clean UIs and cloud-based platforms — from Barranquilla, Colombia 🇨🇴
 
-Building scalable web applications, modern user experiences, and cloud-based platforms.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%2B+Python+Developer;Cloud+%26+Backend+Enthusiast;Building+Modern+Web+Applications" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer with 3+ years of experience
-- ⚙️ Building scalable web and mobile applications
-- ☁️ Working with AWS, Docker and cloud deployments
-- 📱 Experience developing mobile apps with Flutter
-- 🧩 Focused on modern frontend architecture and backend systems
-- 🌍 Based in Barranquilla, Colombia
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,materialui" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs" />
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<a href="https://linkedin.com/in/gabriela-castro-hernandez-gch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gabrielacastro940@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/gabrielacastroh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
-
----
-
-# 🔥 Featured Projects
-
-## QA Intelligence Platform
-Automated QA platform that audits public URLs using browser automation, accessibility analysis and technical reporting.
-
-**Tech:** FastAPI • React • Playwright • Docker • TypeScript
-
----
-
-## SYNC — Real-Time Collaboration Board
-Collaborative platform inspired by Jira and Linear with advanced drag-and-drop interactions and scalable state management.
-
-**Tech:** React • Zustand • Framer Motion • TailwindCSS
-
----
-
-## ORBIT — Product Operations Intelligence
-Operations and analytics dashboard platform focused on product metrics, workflows and role-based access systems.
-
-**Tech:** React • TypeScript • TanStack Query • Zustand
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielacastroh&theme=radical&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&layout=compact&theme=radical&hide_border=true" />
+## About
 
-</div>
+- **3+ years** building full stack products end to end
+- Frontend architecture, backend APIs, and cloud deployments
+- Occasionally ship mobile with Flutter
+- Currently focused on QA automation tooling and real-time collaboration UIs
 
----
+<br/>
 
-# 🌐 Connect With Me
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+
+React · Next.js · TypeScript
+Redux · TailwindCSS · MUI
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+Python · Django · FastAPI
+Flask · Node.js
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & Tools**
+
+AWS · Docker · PostgreSQL
+Git · Figma · Linux
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**QA Intelligence Platform**
+
+Automated QA platform auditing public URLs — browser automation, accessibility analysis, technical reporting.
+
+`FastAPI` `React` `Playwright` `Docker`
+
+</td>
+<td width="33%" valign="top">
+
+**SYNC**
+
+Real-time collaboration board inspired by Jira/Linear — drag-and-drop interactions, scalable state management.
+
+`React` `Zustand` `Framer Motion`
+
+</td>
+<td width="33%" valign="top">
+
+**ORBIT**
+
+Product operations dashboard — metrics, workflows, role-based access.
+
+`React` `TypeScript` `TanStack Query`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/gabrielacastroh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/gabriela-castro-hernandez-gch">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gabrielacastro940@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrielacastroh&show_icons=true&theme=transparent&hide_border=true&text_color=e6e6e6&icon_color=66a6ff&title_color=66a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielacastroh&show_icons=true&theme=transparent&hide_border=true&text_color=1a1a2e&icon_color=2c5364&title_color=2c5364" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&layout=compact&theme=transparent&hide_border=true&text_color=e6e6e6&title_color=66a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacastroh&layout=compact&theme=transparent&hide_border=true&text_color=1a1a2e&title_color=2c5364" />
+</picture>
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gabrielacastroh&style=for-the-badge" />
-
+<sub>Thanks for stopping by ✦</sub>
 </div>
